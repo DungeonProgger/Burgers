@@ -1,0 +1,19 @@
+/* ::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #232329;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(133, 133, 173);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(103, 103, 153);
+} */
+
+.constructor-element__text {
+  font-size: 14px;
+}
